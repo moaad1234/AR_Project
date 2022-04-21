@@ -9,7 +9,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>GitHub repository:              <a href="https://github.com/moaad1234/AR_Project">https://github.com/moaad1234/AR_Project</a></li><li>Project site:                         <a href="https://charlottecollins.coventry.domains/AR/">https://charlottecollins.coventry.domains/AR/</a></li></ul>
+<ul><li>GitHub repository: <a href="https://github.com/moaad1234/AR_Project">https://github.com/moaad1234/AR_Project</a></li><li>Project site: <a href="https://charlottecollins.coventry.domains/AR/">https://charlottecollins.coventry.domains/AR/</a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
