@@ -1,0 +1,10 @@
+﻿  Hello-World-SDK-3.cpp
+Hello-World-SDK-3.cpp(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Hello-World-SDK-3.cpp(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Hello-World-SDK-3.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+     Creating library .\Debug\64\Hello-World-SDK-3.lib and object .\Debug\64\Hello-World-SDK-3.exp
+  Hello-World-SDK-3.vcxproj -> C:\AR_Project\Current_source\Hello_World_example\.\Debug\plugins\Hello-World-SDK-3\64\win.xpl
+  Hello-World-SDK-3.vcxproj -> .\Debug\plugins\Hello-World-SDK-3\64\win.pdb (Full PDB)

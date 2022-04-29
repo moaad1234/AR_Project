@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\AR_Project\Current_source\SharedMemory_Example\Mem_Writer\Mem_Writer\Source.cpp(75,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Mem_Writer.vcxproj -> E:\AR_Project\Current_source\SharedMemory_Example\Mem_Writer\x64\Debug\Mem_Writer.exe

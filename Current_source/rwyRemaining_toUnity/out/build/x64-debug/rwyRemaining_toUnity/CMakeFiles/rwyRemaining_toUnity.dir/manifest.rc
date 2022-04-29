@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/AR_Project/Current_source/rwyRemaining_toUnity/out/build/x64-debug/rwyRemaining_toUnity/CMakeFiles/rwyRemaining_toUnity.dir/embed.manifest"

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f4118bc123407114586463535ca7fe03
+timeCreated: 1648951861
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Glass Gauge
+  fontNames:
+  - Glass Gauge
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

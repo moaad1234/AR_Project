@@ -1,0 +1,16 @@
+﻿  Main.cpp
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(61,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(62,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(63,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(161,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(162,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(163,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(164,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(274,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(308,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(311,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(347,11): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(349,11): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Main.cpp(351,11): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+     Creating library .\Debug\64\Hello-World-SDK-3.lib and object .\Debug\64\Hello-World-SDK-3.exp
+  XPL_TakeoffPerf_Calc_alpha_0_1.vcxproj -> E:\AR_Project\Current_source\XPL_TakeoffPerf_Calc_alpha_0_1\Debug\plugins\XPL_TakeoffPerf_Calc_alpha\64\win.xpl
